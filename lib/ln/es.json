@@ -1,0 +1,14 @@
+{
+	"token": {
+		"info": "info",
+		"shows": "shows",
+		"música": "música",
+		"video": "video",
+		"contacto": "contacto",
+		"español": "español",
+		"inglés": "inglés"
+	},
+	"regex": [
+		["regular expression", "i", "reg"]
+	]
+}
